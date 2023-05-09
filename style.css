@@ -157,7 +157,7 @@ footer{
     }
 
     .bottom-part {
-        margin: 0 auto;
+        flex-direction: column;
         
     }
 
