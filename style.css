@@ -99,11 +99,11 @@ body{
 }
 
 .contact {
-    background-color: rgb(130, 179, 130);
+    background-color: rgb(69, 95, 69);
 }
 
 .about { 
-    background-color: rgb(59, 33, 33);
+    background-color: rgb(128, 29, 29);
 }
 
 .contact,
@@ -157,7 +157,7 @@ footer{
     }
 
     .bottom-part {
-        flex-direction: column;
+        flex-direction: column ;
         
     }
 
