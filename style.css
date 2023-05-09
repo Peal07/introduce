@@ -133,7 +133,7 @@ footer{
 }
 
 
-@media screen and (max-width:786px) { 
+@media screen and (max-width:576px) { 
     .fstprt {min-height: 50vh;}
 
     .bold-section h1 {
